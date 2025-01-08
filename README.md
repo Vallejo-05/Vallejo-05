@@ -1,7 +1,7 @@
-### <div align="center">Sou estudante de programação e desenvolvimento</div>  
+### <div align="center">Sou estudante de Engenharia de Software</div>  
   
 
-- Atualmente, estou no 3° ano do ensino médio técnico da FIAP School  
+- Atualmente, estou no 3° semestre do curso engenharia de software na FIAP
   
 
 <br/>  
